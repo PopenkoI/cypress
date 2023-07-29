@@ -1,0 +1,17 @@
+results/
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+cypress/results/
+cypress/backups/
+cypress/.cache/
+.cypress*
+.cypress.*
+build/
+logs/
+*.log
+*.swp
+package-lock.json
+allure-report/
+allure-results/
